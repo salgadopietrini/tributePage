@@ -1,0 +1,71 @@
+#main {
+    text-align: center;
+    background-color: rgb(228, 189, 142);
+    font-family: Quicksand;
+
+}
+
+#title{
+    background-color: rgb(224, 158, 77); 
+    position: relative;
+    top: 20px
+}
+
+h1 {
+    font-size: 80px;
+    font-family:'Bebas Neue';
+    padding-top: 20px;
+}
+#legend1{
+    font-family:'Playfair Display';
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+#legend2{
+
+    padding-top: 2.5%;
+    padding-left: 10%;
+    padding-right:10%;
+}
+
+#img-div{
+    padding-top: 2.5%;
+    padding-bottom: 1.75%;
+}
+#img-caption{
+    font-size: medium;
+}
+
+#image{
+    width: 800px;
+    border-radius: 20px;
+    border-style: solid;
+    display:"block";
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#tribute-info{
+    text-align: left;
+    background-color: rgb(224, 158, 77); 
+    padding-top: 1.75%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 1.75%;
+}
+
+#phrase{
+    font-family: 'Shadows Into Light';
+    font-size: larger;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+#tribute-link{
+    padding-bottom: 5%;
+}
+
